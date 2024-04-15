@@ -28,13 +28,13 @@ operators for preprocessing:
 for this purpose.
 
 ### Output:
-![](1.png)
+![1](https://github.com/sithihajara/WDM_EXP9/assets/94219582/053889c4-3dd7-4cfd-8719-895e2735983f)
 
-![](2.png)
+![2](https://github.com/sithihajara/WDM_EXP9/assets/94219582/face3d49-b342-4c05-8c8c-ef1ff987485f)
 
-![](3.png)
+![3](https://github.com/sithihajara/WDM_EXP9/assets/94219582/ef93ddef-6bb4-4779-8cf9-0091dfc96885)
 
-![](4.png)
+![4](https://github.com/sithihajara/WDM_EXP9/assets/94219582/3725b720-20ee-4e32-855a-e33483c225be)
 
 ### Result:
 Thus, the preprocessing technique on Twitter Data using Rapidminer is implemented successfully.
